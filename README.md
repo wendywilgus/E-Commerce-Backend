@@ -54,4 +54,8 @@ This project was completed as part of Georgia Tech's Full Stack Development Boot
 
 ## Resources
 
-
+The following resources were helpful in researching best practices and problem-solving on the project.
+* [ExpressJs](https://expressjs.com/en/guide/routing.html)
+* [Routing](https://expressjs.com/en/guide/routing.html)
+* [Switch/Case Method](https://www.w3schools.com/js/js_switch.asp)
+* [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4)
