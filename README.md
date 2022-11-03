@@ -41,7 +41,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock-Up
 
-Please view the linked video for a full demonstration of the functionality of this application. 
+Please view the linked video for a full demonstration of the functionality of this application. https://drive.google.com/file/d/1MA6d_44GjfymDqai4HOuBaiN4OMevejk/view
 
 ## Installation
 
